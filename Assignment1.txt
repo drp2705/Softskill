@@ -1,0 +1,42 @@
+Module 1: Effective Communication
+
+Write professional emails based on any 5 of the following scenarios. Ensure clarity, 
+conciseness, and a formal tone.
+
+1. Thank you Email
+
+-->	Subject: Thank You
+
+	Dear [Recipient's Name],
+
+	I hope this message finds you well.
+
+	I wanted to take a moment to sincerely thank you for [briefly state what you're thanking them for – e.g., your time during our 	meeting, your generous support, the opportunity to interview, etc.]. I truly appreciate [mention what specifically stood out 	or was meaningful].
+	Your [support/guidance/time/kindness] means a lot to me, and I look forward to [next steps/future collaboration/keeping in 	touch, etc.].
+
+	Thanks again, and please don't hesitate to reach out if there's ever anything I can do in return.
+
+	Warm regards,
+	[Your Full Name]
+	[Your Position, if applicable]
+	[Your Contact Information]
+
+2. Resignation Email
+
+-->     Subject: Resignation – [Your Full Name]
+
+	Dear [Manager’s Name],
+
+	I hope you’re well.
+
+	I’m writing to formally resign from my position as [Your Position] at [Company Name], effective [Last Working Day – typically 	two weeks from the date of the email, unless otherwise stated in your contract].
+
+	This decision wasn’t easy and comes after careful consideration. I’m incredibly grateful for the opportunities I’ve had to 	grow both personally and professionally during my time at [Company Name]. I’ve truly enjoyed working with you and the team, 	and I appreciate all the support and guidance provided.
+
+	Over the coming weeks, I will do everything I can to ensure a smooth transition. Please let me know how I can help during the 	handover process.
+
+	Thank you again for the opportunity. I look forward to staying in touch and wish you and the team continued success.
+
+	Warm regards,
+	[Your Full Name]
+	[Your Contact Information]
